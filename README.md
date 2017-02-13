@@ -1,4 +1,6 @@
 # SadjadClient
-An mvp android Client for [https://github.com/sut-it/Sadjad-API](sadjad.ac.ir api's).
+An mvp android Client for [sadjad.ac.ir api's](https://github.com/sut-it/Sadjad-API).
+
+
 
 
